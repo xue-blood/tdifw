@@ -24,12 +24,7 @@
     </Inf>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="adfilter.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-  </ItemGroup>
-  <ItemGroup>
-    <ClCompile Include="adfilter.c">
+    <ClCompile Include="src\adfilter.c">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
